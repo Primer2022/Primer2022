@@ -1,6 +1,6 @@
 
-[![](https://raw.githubusercontent.com/Primer2022/Primer2022/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://t.me/Primer_Legend)
-[![](https://raw.githubusercontent.com/Primer2022/Primer2022/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://t.me/Primer_Legend)
-[![](https://raw.githubusercontent.com/Primer2022/Primer2022/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://t.me/Primer_Legend)
-[![](https://raw.githubusercontent.com/Primer2022/Primer2022/master/profile-summary-card-output/github_dark/3-stats.svg)](https://t.me/Primer_Legend)
-[![](https://raw.githubusercontent.com/Primer2022/Primer2022/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://t.me/Primer_Legend)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Primer2022&theme=github_dark)](https://t.me/Primer_Legend)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Primer2022&theme=github_dark)](https://t.me/Primer_Legend)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Primer2022&theme=github_dark)](https://t.me/Primer_Legend)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Primer2022&theme=github_dark)](https://t.me/Primer_Legend)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Primer2022&theme=github_dark&utcOffset=3)](https://t.me/Primer_Legend)
